@@ -1,0 +1,43 @@
+[
+    {
+        "name": "mohuishou/image-ocr",
+        "version": "0.1.0",
+        "version_normalized": "0.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mohuishou/ImageOCR.git",
+            "reference": "a6a5e07cfdcb57dad8c3c10395d63fa66535ab2d"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mohuishou/ImageOCR/zipball/a6a5e07cfdcb57dad8c3c10395d63fa66535ab2d",
+            "reference": "a6a5e07cfdcb57dad8c3c10395d63fa66535ab2d",
+            "shasum": ""
+        },
+        "time": "2016-10-07 13:07:19",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Mohuishou\\ImageOCR\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "mohuishou",
+                "email": "1@lailin.xyz"
+            }
+        ],
+        "description": "验证码识别",
+        "keywords": [
+            "OCR",
+            "image",
+            "验证码",
+            "验证码识别"
+        ]
+    }
+]
